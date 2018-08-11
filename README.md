@@ -6,9 +6,5 @@ This repository about how to create lite weight basic loader using your name ini
 ----
 
 ## How to code block alphabets in svg
-For creating alphabets we will consider grid of block of 3 X 4.
-
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-----
+1) For creating alphabets we will consider grid of block and fill them with color.
+2) then we will use some css to apply animation to the alphabets.
